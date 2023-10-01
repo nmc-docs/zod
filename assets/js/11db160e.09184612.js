@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhtml=self.webpackChunkhtml||[]).push([[70],{8461:t=>{t.exports=JSON.parse('{"title":"Validate","slug":"/category/validate","permalink":"/zod/category/validate","navigation":{"previous":{"title":"Gi\u1edbi thi\u1ec7u v\u1ec1 Zod","permalink":"/zod/"},"next":{"title":"String","permalink":"/zod/validate/string"}}}')}}]);
