@@ -12,6 +12,12 @@ z.array(z.number()) // Mảng các number
 ...
 ```
 
+hoặc ta có thể viết:
+
+```ts
+z.string().array(); // equivalent to z.array(z.string());
+```
+
 ## Validation
 
 ```ts

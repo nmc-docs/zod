@@ -15,7 +15,7 @@ z.string({
 
 ## Transformation
 
-- Dưới đây là những phương thức để biến đổi chuỗi trước khi validate:
+- Dưới đây là những phương thức để biến đổi chuỗi **TRƯỚC KHI** validate:
 
 ```ts
 z.string().trim(); // Xóa bỏ khoảng trắng đầu và cuối chuỗi
